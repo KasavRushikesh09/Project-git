@@ -9,17 +9,17 @@ import LikeProfile from "./LikeProfile";
 const ProfileInfo = ({ userProfile }) => {
 	// const userProfile = {
 	// 	avatar_url: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
-	// 	bio: "👨🏻‍💻👨🏻‍💻👨🏻‍💻",
-	// 	email: "johndoe@gmail.com",
-	// 	followers: 100,
-	// 	following: 200,
-	// 	html_url: "https://github.com/burakorkmez",
+	// 	bio: "Software Engineer",
+	// 	email: "rushikeshkasav1@gmail.com",
+	// 	followers: 0,
+	// 	following: 0,
+	// 	html_url: "https://github.com/KasavRushikesh09",
 	// 	location: "Somewhere, Earth",
-	// 	name: "John Doe",
-	// 	public_gists: 100,
-	// 	public_repos: 100,
-	// 	twitter_username: "johndoe",
-	// 	login: "johndoe",
+	// 	name: "Rushikesh kasav",
+	// 	public_gists: 0,
+	// 	public_repos: 21,
+	// 	twitter_username: "rushikesh kasav",
+	// 	login: "KasavRushikesh09",
 	// };
 
 	const memberSince = formatMemberSince(userProfile?.created_at);
