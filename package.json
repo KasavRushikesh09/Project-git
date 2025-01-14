@@ -1,4 +1,7 @@
 {
+	"engines":{
+		"node":"v20.15.0"
+		},
 	"name": "mern-github-app",
 	"version": "1.0.0",
 	"description": "",
