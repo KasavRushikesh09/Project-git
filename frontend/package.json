@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001692",
+    "mern-github-app": "file:..",
     "mern-github-yt": "file:..",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

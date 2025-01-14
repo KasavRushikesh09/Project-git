@@ -10,4 +10,4 @@
 
 # Update the callback url on github.auth.js to full url (deployed url)
 
-# Lastly, subscribe to make it work ;)
+# Lastly, subscribe to make it work ;

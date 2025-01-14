@@ -7,12 +7,12 @@ import { formatMemberSince } from "../utils/functions";
 import LikeProfile from "./LikeProfile";
 
 const ProfileInfo = ({ userProfile }) => {
-	// const userProfile = {
-	// 	avatar_url: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+    // 	const userProfile = {
+	// 	avatar_url:  "https://avatars.githubusercontent.com/u/182214162?v=4",
 	// 	bio: "Software Engineer",
 	// 	email: "rushikeshkasav1@gmail.com",
-	// 	followers: 0,
-	// 	following: 0,
+	// 	followers: 302,
+	// 	following: 165,
 	// 	html_url: "https://github.com/KasavRushikesh09",
 	// 	location: "Somewhere, Earth",
 	// 	name: "Rushikesh kasav",
